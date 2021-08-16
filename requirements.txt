@@ -115,7 +115,6 @@ gspread==3.0.1
 gspread-dataframe==3.0.8
 gym==0.17.3
 h5py==3.1.0
-ideep4py==2.0.0.post3
 idna==2.10
 imageio==2.4.1
 imagesize==1.2.0
