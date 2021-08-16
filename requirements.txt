@@ -360,3 +360,11 @@ yarg==0.1.9
 yellowbrick==0.9.1
 zict==2.0.0
 zipp==3.5.0
+Flask==0.8
+Jinja2==2.6
+Werkzeug==0.8.3
+certifi==0.0.8
+chardet==1.0.1
+distribute==0.6.24
+gunicorn==0.14.2
+requests==0.11.1
