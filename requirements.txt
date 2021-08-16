@@ -104,7 +104,6 @@ google-cloud-core==1.0.3
 google-cloud-datastore==1.8.0
 google-cloud-firestore==1.7.0
 google-cloud-language==1.2.0
-google-cloud-storage==1.18.1
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-pasta==0.2.0
 google-resumable-media==0.4.1
