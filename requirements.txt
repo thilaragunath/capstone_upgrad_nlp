@@ -360,7 +360,3 @@ yarg==0.1.9
 yellowbrick==0.9.1
 zict==2.0.0
 zipp==3.5.0
-jupyter
-gunicorn
-flask
-numpy
