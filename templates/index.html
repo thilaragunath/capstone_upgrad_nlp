@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>eBass Demo</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body> 
+        <div class="login">            
+            <h1>eBass Product Recommendation System</h1>
+            <form action="{{url_for('predict')}}" method="post">
+                <input type="text" name="username" placeholder="Enter your user name here" required ="required" >
+                <button type="submit" class="btn btn-primary btn-block btn-large">
+                    predict
+                </button>
+            </form>
+            
+            <br>
+            <br>
+            {{prediction_text}}
+            </div>            
+    </body>    
+</html>
