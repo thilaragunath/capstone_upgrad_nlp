@@ -360,7 +360,6 @@ yarg==0.1.9
 yellowbrick==0.9.1
 zict==2.0.0
 zipp==3.5.0
-https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
 fastai==1.0.52
 jupyter
 gunicorn
